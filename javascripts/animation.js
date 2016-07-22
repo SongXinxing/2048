@@ -1,7 +1,7 @@
 //练习: 实现2048动画效果
 var animation={
   DURATION:200,//总时间
-  STEPS:50,//总步数
+  STEPS:10,//总步数
   interval:0,//每步的时间间隔
   
   moved:0,//保存已经移动的步数
